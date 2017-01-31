@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RoboPilot</string>
+    <string name="bt_connect">Połącz</string>
+    <string name="bt_status">Status: Nie połączony</string>
+    <string name="mode">Tryb: sterowanie przyciskami</string>
+    <string name="button_mode">Przyciski</string>
+    <string name="position_mode">Żyroskop</string>
+    <string name="map_mode">Mapa</string>
+    <string name="predkosc">Szybkość: średnia</string>
+</resources>
